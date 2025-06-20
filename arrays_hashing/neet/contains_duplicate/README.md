@@ -1,23 +1,24 @@
 # [Contains Duplicate](https://neetcode.io/problems/duplicate-integer)
 
+[LeetCode 217](https://leetcode.com/problems/contains-duplicate/description/)
 Difficulty: **Easy**
 
 Given an integer array `nums`, return `true` if any value appears **more than once** in the array, otherwise return `false`.
 
 ## Example 1:
 
-**Input**:  
+**Input**:
 `nums = [1, 2, 3, 3]`
 
-**Output**:  
+**Output**:
 `true`
 
 ## Example 2:
 
-**Input**:  
+**Input**:
 `nums = [1, 2, 3, 4]`
 
-**Output**:  
+**Output**:
 `false`
 
 ## Recommended Time & Space Complexity
